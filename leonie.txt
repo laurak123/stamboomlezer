@@ -1,0 +1,21 @@
+Leonie Mercedes Augusta van Saksen-Weimar-Eisenach				@ F	-
+Michael-Benedikt Georg van Saksen-Weimar-Eisenach				@ M Leonie Mercedes Augusta van Saksen-Weimar-Eisenach
+Dagmar Hennings													@ F	Leonie Mercedes Augusta van Saksen-Weimar-Eisenach	
+Karel August Willem van Saksen-Weimar-Eisenach					@ M	Michael-Benedikt Georg van Saksen-Weimar-Eisenach
+Elisabeth van Wangenheim-Winterstein							@ F	Michael-Benedikt Georg van Saksen-Weimar-Eisenach
+Willem Ernst van Saksen-Weimar-Eisenach							@ M Karel August Willem van Saksen-Weimar-Eisenach	
+Feodora Carola Charlotte van Saksen-Meiningen					@ F Karel August Willem van Saksen-Weimar-Eisenach
+Karel August van Saksen-Weimar-Eisenach							@ M Willem Ernst van Saksen-Weimar-Eisenach	
+Pauline van Saksen-Weimar-Eisenach								@ F	Willem Ernst van Saksen-Weimar-Eisenach	
+Frederik van Saksen-Meiningen									@ M Feodora Carola Charlotte van Saksen-Meiningen
+Adelheid van Lippe-Biesterfeld 									@ F Feodora Carola Charlotte van Saksen-Meiningen
+Herman Bernhard van Saksen-Weimar-Eisenach						@ M	Pauline van Saksen-Weimar-Eisenach
+Karel Bernhard van Saksen-Weimar-Eisenach						@ M Pauline van Saksen-Weimar-Eisenach 	
+Karel Alexander van Saksen-Weimar-Eisenach						@ M	Karel August van Saksen-Weimar-Eisenach	
+Sophie van Oranje-Nassau										@ F	Karel August van Saksen-Weimar-Eisenach	
+Ernst Kasimir van Lippe-Biesterfeld								@ M	Adelheid van Lippe-Biesterfeld 	
+Caroline van Wartensleben										@ F	Adelheid van Lippe-Biesterfeld 	
+Willem Frederik George van Oranje-Nassau						@ M Sophie van Oranje-Nassau
+Anna Paulowna van Rusland										@ F	Sophie van Oranje-Nassau			
+Willem Frederik van Oranje-Nassau								@ M Willem Frederik George van Oranje-Nassau
+Frederica Louisa Wilhelmina van Pruisen							@ F Willem Frederik George van Oranje-Nassau

@@ -1,0 +1,35 @@
+Willem-Alexander van Oranje-Nassau							@ M		-
+Claus George Willem Otto van Amsberg						@ M		Willem-Alexander van Oranje-Nassau
+Beatrix Wilhelmina Armgard van Oranje-Nassau				@ F		Willem-Alexander van Oranje-Nassau	
+Claus Felix Frederik van Amsberg							@ M		Claus George Willem Otto van Amsberg			
+Gosta van den Bussche-Haddenhausen							@ F		Claus George Willem Otto van Amsberg			
+Bernhard Leopold Frederik van Lippe-Biesterfeld				@ M		Beatrix Wilhelmina Armgard van Oranje-Nassau
+Juliana Louise Emma Maria Wilhelmina van Oranje-Nassau		@ F		Beatrix Wilhelmina Armgard van Oranje-Nassau
+Wilhelm Carl Friedrich van Amsberg							@ M		Claus Felix Frederik van Amsberg
+Elise Hedwig Alexandrine van Vieregge						@ F		Claus Felix Frederik van Amsberg		
+Georg van den Bussche-Haddenhausen							@ M		Gosta van den Bussche-Haddenhausen						
+Gabrielle Marie Amalie Ippenburg							@ F		Gosta van den Bussche-Haddenhausen
+Bernhard Kasimir van Lippe-Biesterfeld						@ M		Bernhard Leopold Frederik van Lippe-Biesterfeld	
+Armgard van Sierstorpff Cramm								@ F		Bernhard Leopold Frederik van Lippe-Biesterfeld	
+Hendrik Wladimir Albrecht van Mecklenburg Schwerin			@ M 	Juliana Louise Emma Maria Wilhelmina van Oranje-Nassau 
+Wilhelmina Helena Pauline van Oranje-Nassau					@ F		Juliana Louise Emma Maria Wilhelmina van Oranje-Nassau 
+Gabriel Ludwig Johann van Amsberg							@ M  	Wilhelm Carl Friedrich van Amsberg 	
+Marie van Passow											@ F		Wilhelm Carl Friedrich van Amsberg						
+Leopold van Vieregge 										@ M		Elise Hedwig Alexandrine van Vieregge
+Agnes von Gutschmid											@ F		Elise Hedwig Alexandrine van Vieregge
+Julius Ernst Herman van den Bussche-Haddenhausen 			@ M		Georg van den Bussche-Haddenhausen			
+Juliana Auguste Henriette van Salviati						@ F		Georg van den Bussche-Haddenhausen
+Eberhard Ippenburg											@ M 	Gabrielle Marie Amalie Ippenburg
+Barbara van Chelius											@ F		Gabrielle Marie Amalie Ippenburg
+Ernst Kasimir van Lippe-Biesterfeld							@ M		Bernhard Kasimir van Lippe-Biesterfeld	
+Karoline van Wartensleben									@ F		Bernhard Kasimir van Lippe-Biesterfeld
+Aschwin van Sierstorpff Cramm								@ M		Armgard van Sierstorpff Cramm
+Hedwig van Sierstorpff										@ F		Armgard van Sierstorpff Cramm	
+Frederik Frans II van Mecklenburg-Schwerin 					@ M		Hendrik Wladimir Albrecht van Mecklenburg Schwerin	
+Marie van Schwarzburg-Rudolstadt							@ F		Hendrik Wladimir Albrecht van Mecklenburg Schwerin
+Willem Alexander Paul van Oranje-Nassau						@ M		Wilhelmina Helena Pauline van Oranje-Nassau	
+Adelheid Emma Wilhelmina van Oranje-Nassau					@ F		Wilhelmina Helena Pauline van Oranje-Nassau				
+Willem Frederik George van Oranje-Nassau					@ M 	Willem Alexander Paul van Oranje-Nassau 
+Anna Paulowna van Rusland									@ F		Willem Alexander Paul van Oranje-Nassau
+Willem Frederik van Oranje-Nassau							@ M 	Willem Frederik George van Oranje-Nassau	
+Frederica Louisa Wilhelmina van Pruisen						@ F 	Willem Frederik George van Oranje-Nassau
